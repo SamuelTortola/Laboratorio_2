@@ -1,0 +1,63 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Laboratorio 2\Lab2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/Programas\Microchip studio\7.0\Packs\Atmel\ATmega_DFP\2.1.506\avrasm\inc</DIR>
+  <DIR>D:\Programas\Microchip studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Laboratorio 2\Lab2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/Programas\Microchip studio\7.0\Packs\Atmel\ATmega_DFP\2.1.506\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>D:/Programas\Microchip studio\7.0\Packs\Atmel\ATmega_DFP\2.1.506\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Laboratorio 2\Lab2\Debug\Lab2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab2.map</FILE>
+  <FILE>Lab2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <SETUP><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Laboratorio 2\Lab2\main.asm</FILE><LINE>34</LINE></SETUP>
+  <timer1><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Laboratorio 2\Lab2\main.asm</FILE><LINE>96</LINE></timer1>
+  <LOOP><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Laboratorio 2\Lab2\main.asm</FILE><LINE>67</LINE></LOOP>
+  <INCREMENTOH><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Laboratorio 2\Lab2\main.asm</FILE><LINE>126</LINE></INCREMENTOH>
+  <DECREMENTOH><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Laboratorio 2\Lab2\main.asm</FILE><LINE>231</LINE></DECREMENTOH>
+  <contador><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Laboratorio 2\Lab2\main.asm</FILE><LINE>108</LINE></contador>
+  <restriccion><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Laboratorio 2\Lab2\main.asm</FILE><LINE>121</LINE></restriccion>
+  <delay><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Laboratorio 2\Lab2\main.asm</FILE><LINE>128</LINE></delay>
+  <delay1><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Laboratorio 2\Lab2\main.asm</FILE><LINE>132</LINE></delay1>
+  <delay5><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Laboratorio 2\Lab2\main.asm</FILE><LINE>136</LINE></delay5>
+  <iinc><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Laboratorio 2\Lab2\main.asm</FILE><LINE>149</LINE></iinc>
+  <iiinc><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Laboratorio 2\Lab2\main.asm</FILE><LINE>160</LINE></iiinc>
+  <TABLA><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Laboratorio 2\Lab2\main.asm</FILE><LINE>150</LINE></TABLA>
+  <iiiinc><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Laboratorio 2\Lab2\main.asm</FILE><LINE>173</LINE></iiiinc>
+  <TABLA1><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Laboratorio 2\Lab2\main.asm</FILE><LINE>164</LINE></TABLA1>
+  <iiiiinc><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Laboratorio 2\Lab2\main.asm</FILE><LINE>194</LINE></iiiiinc>
+  <r280><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Laboratorio 2\Lab2\main.asm</FILE><LINE>190</LINE></r280>
+  <TABLA2><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Laboratorio 2\Lab2\main.asm</FILE><LINE>180</LINE></TABLA2>
+  <iiiiiinc><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Laboratorio 2\Lab2\main.asm</FILE><LINE>210</LINE></iiiiiinc>
+  <TABLA3><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Laboratorio 2\Lab2\main.asm</FILE><LINE>201</LINE></TABLA3>
+  <TABLA4><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Laboratorio 2\Lab2\main.asm</FILE><LINE>211</LINE></TABLA4>
+  <restr><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Laboratorio 2\Lab2\main.asm</FILE><LINE>221</LINE></restr>
+  <delay6><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Laboratorio 2\Lab2\main.asm</FILE><LINE>233</LINE></delay6>
+  <delay7><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Laboratorio 2\Lab2\main.asm</FILE><LINE>237</LINE></delay7>
+  <delay8><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Laboratorio 2\Lab2\main.asm</FILE><LINE>241</LINE></delay8>
+  <decc><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Laboratorio 2\Lab2\main.asm</FILE><LINE>252</LINE></decc>
+  <deccc><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Laboratorio 2\Lab2\main.asm</FILE><LINE>268</LINE></deccc>
+  <TABLA41><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Laboratorio 2\Lab2\main.asm</FILE><LINE>256</LINE></TABLA41>
+  <decccc><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Laboratorio 2\Lab2\main.asm</FILE><LINE>289</LINE></decccc>
+  <TABLA21><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Laboratorio 2\Lab2\main.asm</FILE><LINE>273</LINE></TABLA21>
+  <qq><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Laboratorio 2\Lab2\main.asm</FILE><LINE>285</LINE></qq>
+  <de><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Laboratorio 2\Lab2\main.asm</FILE><LINE>303</LINE></de>
+  <deccccc><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Laboratorio 2\Lab2\main.asm</FILE><LINE>309</LINE></deccccc>
+  <TABLA18><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Laboratorio 2\Lab2\main.asm</FILE><LINE>296</LINE></TABLA18>
+  <resto><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Laboratorio 2\Lab2\main.asm</FILE><LINE>321</LINE></resto>
+  <TABLA14><FILE>D:\samue\Escritorio\OneDrive - UVG\UVG\Año 2024\Semestre 1\Progra micros\Practicas\Laboratorio 2\Lab2\main.asm</FILE><LINE>313</LINE></TABLA14>
+ </LABELS>
+</ASSEMBLER_INFO>
